@@ -1,15 +1,26 @@
 # SynchIT-documentation
 Documentation repository for MERN project SynchIT by Carly Davis and Maria Gorin
 
+## Description of your website, including:
+
+- Purpose
+
+- Functionality / features
+
+- Target audience
+
+- Tech stack
+
+## Dataflow Diagram
+
+## Application Architecture Diagram
+
 ## User stories
 
-1. As a new user I can resister as a member
+[User stories board](https://app.cardboardit.com/maps/135109#)
 
-2. As a member I can login and set my available hours for a week
+## Wireframes for multiple standard screen sizes, created using industry standard software
 
-3. As a member I can see other members availabilities for a week
+## Project management model and source control
 
-4. As a member I can see availabilities of a particular member
-
-5. As a member I can see other members availabilities at the present moment
-
+## Screenshots of your Trello board demonstrating use throughout the initial stages of the project
