@@ -1,4 +1,7 @@
-# SynchIT-documentation
+![SynchIT Logo](images/synchit-logo.png "SynchIT Logo")
+
+
+# SynchIT
 Documentation repository for MERN project SynchIT by Carly Davis and Maria Gorin
 
 ## Description of your website, including:
@@ -56,6 +59,9 @@ _React.js_ is used to build client side of the app
 ![User stories](images/user-stories.png)
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
+
+![SynchIt Sitemap](images/SynchIT-Sitemap.jpeg "SynchIt Sitemap")
+
 
 ## Project management model and source control
 
