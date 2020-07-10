@@ -29,6 +29,8 @@ _React.js_ is used to build client side of the app
 
 ## Dataflow Diagram
 
+![SynchIT DFD](dataflow-diagram.png)
+
 ## Application Architecture Diagram
 
 ## User stories
