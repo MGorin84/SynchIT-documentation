@@ -5,9 +5,21 @@ Documentation repository for MERN project SynchIT by Carly Davis and Maria Gorin
 
 ### Purpose
 
+SynchIt is a scheduling helper web app that’s primary purpose is to make it easier for people to connect.
+
+The purpose of SynchIT is to help teams of people synchronise their lifestyles, and make it easier to schedule meetings, catch up for brunch, and much more.
+
+
 ### Functionality / features
 
+SynchIT works by having the user register as a team along with others, and then entering their availability into a calendar. It then takes all the user input and compares it against the rest of the data collected from the team, and displays it for everyone to see using a colour coded system - Green meaning ‘most’, if not ‘all’ users in a cohort are available, Yellow meaning some people are available, and Red meaning not many, and maybe even no one is available.
+
+
 ### Target audience
+
+Whether it’s a group of friends or a team of work colleagues in a major company, SynchIT helps everyone see their acquaintances availability and schedules to help make catching up or setting meetings a breeze.
+
+It's made for people who wish to make it easier to stay connected in an environment where the current climate is making it hard for people to do that.
 
 ### Tech stack
 
@@ -26,6 +38,8 @@ _React.js_ is used to build client side of the app
 - Netlify is a deployment platform we chose for the client side of the app
 
 - Heroku was used to deploy server
+
+![MERN Stack](images/mern-stack.jpeg "MERN")
 
 ## Dataflow Diagram
 
