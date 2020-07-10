@@ -43,13 +43,17 @@ _React.js_ is used to build client side of the app
 
 ## Dataflow Diagram
 
-![SynchIT DFD](dataflow-diagram.png)
+![SynchIT DFD](images/dataflow-diagram.png)
 
 ## Application Architecture Diagram
+
+![Application Architecture Diagram](images/architecture-diagram.png)
 
 ## User stories
 
 [User stories board](https://app.cardboardit.com/maps/135109#)
+
+![User stories](images/user-stories.png)
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
 
@@ -65,6 +69,6 @@ Master branches contain stable version of the code which get deployed.
 
 Feature branches contain work in progress.
 
-![Gitflow diagram](git-workflow.png)
+![Gitflow diagram](images/git-workflow.png)
 
 ## Screenshots of your Trello board demonstrating use throughout the initial stages of the project
