@@ -63,6 +63,11 @@ _React.js_ is used to build client side of the app
 ![SynchIt Sitemap](images/SynchIT-Sitemap.jpeg "SynchIt Sitemap")
 
 
+#####Wireframes:
+
+https://www.figma.com/file/7zC7RSMN6l2X8MeCQK5gyr/SynchIT?node-id=0%3A1
+
+
 ## Project management model and source control
 
 ### Source control
@@ -71,9 +76,9 @@ We use Gitflow for source control of the application and store our work in GitHu
 
 We created separate repositories for the server app and a client app.
 
-Master branches contain stable version of the code which get deployed.
+Master branches contain stable versions of the code which get deployed.
 
-Feature branches contain work in progress.
+Feature branches contain work in progress on which a pull request is made. It is then reviewed by another team member before being merged to the master branch once tested and confirmed to be working.
 
 ![Gitflow diagram](images/git-workflow.png)
 
