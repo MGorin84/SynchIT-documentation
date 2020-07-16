@@ -63,7 +63,7 @@ _React.js_ is used to build client side of the app
 ![SynchIt Sitemap](images/SynchIT-Sitemap.jpeg "SynchIt Sitemap")
 
 
-#####Wireframes:
+####Wireframes:
 
 https://www.figma.com/file/7zC7RSMN6l2X8MeCQK5gyr/SynchIT?node-id=0%3A1
 
