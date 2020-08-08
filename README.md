@@ -83,4 +83,6 @@ Feature branches contain work in progress on which a pull request is made. It is
 
 ![Gitflow diagram](images/git-workflow.png)
 
+
+
 ## Screenshots of your Trello board demonstrating use throughout the initial stages of the project
