@@ -15,7 +15,7 @@ The purpose of SynchIT is to help teams of people synchronise their lifestyles, 
 
 ### Functionality / features
 
-SynchIT works by having the user register as a team along with others, and then entering their availability into a calendar. It then takes all the user input and compares it against the rest of the data collected from the team, and displays it for everyone to see using a colour coded system - Green meaning ‘most’, if not ‘all’ users in a cohort are available, Yellow meaning some people are available, and Red meaning not many, and maybe even no one is available.
+SynchIT works by having the user register along with their team or friends, and then entering their availability into a calendar by clicking on the days of the month they are available. It then takes all the user input and compares it against the rest of the data collected from the team, and displays it for everyone to see using a colour coded system - Green meaning someone is available, and Red meaning no one is available.
 
 
 ### Target audience
@@ -43,6 +43,7 @@ _React.js_ is used to build client side of the app
 - Heroku was used to deploy server
 
 ![MERN Stack](images/mern-stack.jpeg "MERN")
+
 
 ## Dataflow Diagram
 
